@@ -3,5 +3,5 @@
 ## Contents
 1. [Domain Change](#d_change)
 
-## Domain Change
+## Domain Change(#d_change)
 As of 01/01/2020, the Toggle Website is offline, and the domain will change from [https://togglenet.co.uk](https://togglenet.co.uk) to [?](#)
